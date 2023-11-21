@@ -17,7 +17,7 @@ In this repository, you will find various data projects that demonstrate the pow
 - **Project 1: Tracking User Engagement with SQL, Excel, and Python** - Comparing and Analyzing Student Engagement Between Q2 2021 and Q2 2022 
 
 
-Thank you for visiting and exploring our mixed-tool data projects!
+Thank you for visiting and exploring my mixed-tool data projects!
 
 Happy coding and data analysis!
 
