@@ -4,7 +4,7 @@ Welcome to the Mixed-Tool Data Projects Repository! This repository hosts a coll
 
 ## Overview
 
-In this repository, you will find various data projects that demonstrate the power of using multiple tools in the data analysis and data science workflows. These projects showcase our ability to manipulate, analyze, and visualize data efficiently, drawing from the strengths of Python, SQL, Excel, Tableau etc.
+In this repository, you will find various data projects that demonstrate the power of using multiple tools in the data analysis and data science workflows. These projects showcase my ability to manipulate, analyze, and visualize data efficiently, drawing from the strengths of Python, SQL, Excel, Tableau etc.
 
 ## Project Structure
 
