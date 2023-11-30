@@ -4,7 +4,7 @@ Welcome to the Mixed-Tool Data Projects Repository! This repository hosts a coll
 
 ## Overview
 
-In this repository, you will find various data projects that demonstrate the power of using multiple tools in the data analysis and data science workflows. These projects showcase our ability to manipulate, analyze, and visualize data efficiently, drawing from the strengths of Excel, SQL, Python, etc.
+In this repository, you will find various data projects that demonstrate the power of using multiple tools in the data analysis and data science workflows. These projects showcase my ability to manipulate, analyze, and visualize data efficiently, drawing from the strengths of Python, SQL, Excel, Tableau etc.
 
 ## Project Structure
 
@@ -17,7 +17,7 @@ In this repository, you will find various data projects that demonstrate the pow
 - **Project 1: Tracking User Engagement with SQL, Excel, and Python** - Comparing and Analyzing Student Engagement Between Q2 2021 and Q2 2022 
 
 
-Thank you for visiting and exploring our mixed-tool data projects!
+Thank you for visiting and exploring my mixed-tool data projects!
 
 Happy coding and data analysis!
 
