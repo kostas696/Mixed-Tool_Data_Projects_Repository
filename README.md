@@ -17,6 +17,7 @@ In this repository, you will find various data projects that demonstrate the pow
 - **Project 1: Tracking User Engagement with SQL, Excel, and Python** - Comparing and Analyzing Student Engagement Between Q2 2021 and Q2 2022.
 - **Project 2: Analysing Employees Database with SQL and Visualizing results in Tableau**
 - **Project 3: Career Track Analysis with SQL and Tableau** - Exploring Student Enrollments and Completions in Data-Related Career Tracks.
+- **Project 4: Absenteeism At Work with Python, SQL and Tableau Integration**
 
 
 
