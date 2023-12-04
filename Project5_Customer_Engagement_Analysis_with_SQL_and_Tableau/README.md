@@ -1,10 +1,10 @@
-*Customer Engagement Analysis Project*
+# Customer Engagement Analysis Project
 
-Overview
+## Overview
 Welcome to our Customer Engagement Analysis project, where we explore student engagement with the 365 platform and identify areas for improvement. 
 The goal is to build a three-page dashboard with key metrics and visualizations that address specific questions related to student engagement.
 
-Project Objectives
+## Project Objectives
 The primary objectives of our dashboard are to answer the following questions:
 
 - Top Courses:
@@ -32,7 +32,7 @@ Analyze seasonal variations in content consumption.
 Identify countries with the highest number of registered students.
 Assess whether registration numbers correlate with minutes watched per country.
 
-**Project Phases**
+## Project Phases
 
 **SQL Data Retrieval**
 
