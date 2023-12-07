@@ -19,6 +19,7 @@ In this repository, you will find various data projects that demonstrate the pow
 - **Project 3: Career Track Analysis with SQL and Tableau** - Exploring Student Enrollments and Completions in Data-Related Career Tracks.
 - **Project 4: Absenteeism At Work with Python, SQL and Tableau Integration**
 - **Project 5: Customer Engagement Analysis with SQL and Tableau** - A Practical Approach to Analyzing and Visualizing Customer Engagement Metrics
+- **Project 6: Checkout Flow Optimization Analysis with SQL and Tableau** - Boosting Online Sales: Insights Into Cart Behavior and Checkout Errors
 
 
 
